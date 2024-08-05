@@ -1,10 +1,10 @@
 ## Programming Languages
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,js,php,python" /> <br /><br />
 
 ## Frameworks and Library
 
-<img src="https://skillicons.dev/icons?i=wordpress,sass,react,laravel," /> <br /><br />
+<img src="https://skillicons.dev/icons?i=sass,wordpress,jquery,tailwindcss,react,laravel," /> <br /><br />
 
 ## DB and Dev Tools etc
 
