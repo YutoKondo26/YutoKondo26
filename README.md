@@ -12,3 +12,7 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YutoKondo26&theme=github_dark&layout=default)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=YutoKondou26&theme=github_dark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
