@@ -4,7 +4,7 @@
 
 ## Frameworks and Library
 
-<img src="https://skillicons.dev/icons?i=react,next,vue,nuxt,nodejs,express,flask,fastapi,laravel,wordpress" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=wordpress,sass,react,laravel," /> <br /><br />
 
 ## DB and Dev Tools etc
 
