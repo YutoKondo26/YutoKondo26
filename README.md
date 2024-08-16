@@ -12,6 +12,6 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=default)
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=YutoKondo26)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YutoKondo26&theme=blue_green)
 
 
