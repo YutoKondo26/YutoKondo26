@@ -10,7 +10,7 @@
 
 <img src="https://skillicons.dev/icons?i=mysql,docker,git,github,vscode,linux" /> <br /><br />
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YutoKondo26&theme=blue_green)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YutoKondo26&theme=blue_green)
 
