@@ -13,5 +13,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YutoKondo26&theme=blue_green)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YutoKondo26&theme=blue_green)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YutoKondo26&theme=blue_green)
+[![trophy](https://github-profile-trophy.vercel.app/?username=YutoKondo26&theme=blue_green&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
